@@ -56,6 +56,23 @@ A real-time, bidirectional voice communication system using two ESP32-C3 microco
 
 This hardware set was chosen to keep the **walkie-talkie portable, slim, and efficient**, making it suitable for **handheld use** without compromising on audio quality.
 
+## 📸 Hardware Gallery
+
+### Breadboard Prototype
+![Breadboard Setup](images/breadboard.png)
+*Complete breadboard assembly with all components connected*
+
+### Component Pinouts
+
+#### ESP32-C3 Super Mini
+![ESP32-C3 Pinout](images/ESP32-C3-SuperMini-Pinout.jpeg)
+
+#### INMP441 Microphone
+![INMP441 Pinout](images/IN441-Pinout.png)
+
+#### MAX98357A Amplifier
+![MAX98357A Pinout](images/MAX98357A-Pinout.jpg)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
